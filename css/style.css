@@ -21,6 +21,10 @@ a:focus, a:hover {
 	text-decoration: none;
 }
 
+p {
+	font-size: 18px;
+}
+
 .nav-pills>li>a {
 	border-radius: 0;
 }
@@ -1309,6 +1313,43 @@ footer .copyright {
 	text-align: center;
 }
 
+.faculty-card2 {
+	background-image: url(../img/fyc-c-bg.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 50px 200px;
+    height: 420px;
+    position: relative;
+}
+.faculty-card2-inner {
+	position: absolute;
+	right: 20%;
+}
+.faculty-card2-inner h2 {
+	color: #EF4E23;
+}
+.faculty-card2-inner h5 {
+	text-align: right;
+}
+.faculty-card2 p {
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: 300;
+    max-width: 600px;
+}
+.faculty-card2-form {
+	margin-top: 30px;
+}
+
+.faculty-card2-form .form-control.selector {
+	margin-bottom: 10px;
+}
+.btn-default.btn-kmutt.faculty2 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
 .color-o {
 	color: #EF4E23;
 }
@@ -1465,6 +1506,170 @@ img.w12 {
     padding: 6px 0px;
     border-bottom: 1px solid #fff;
     border-top: 1px solid #fff;
+}
+.flexslider-scoop .flex-viewport {
+    max-height: 900px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.flexslider-scoop .flex-control-nav {
+    width: 100%;
+    position: relative;
+    bottom: inherit;
+    top: -40px;
+    left: 15px;
+    text-align: left;
+}
+
+.scoop-content h3 {
+	color: #ef4e23;
+}
+.scoop-content img {
+	margin: 15px 0px 15px 0px;
+	width: 100%;
+}
+.scoop-content-date {
+    margin-top: 60px;
+}
+.scoop-content-date span {
+    font-weight: 700;
+}
+.a-widget-box {
+    padding: 20px;
+    border: 1px solid #d0d2d3;
+}
+ul.a-box-list {
+    list-style-type: none;
+    -webkit-padding-start: 20px;
+}
+ul.a-box-list li {
+    font-size: 16px;
+    cursor: pointer;
+}
+ul.a-box-list li:before {
+    content: "+";
+    color: #ef4e23;
+    font-size: 22px;
+}
+
+ul.ar-box-list {
+	list-style-type: none;
+    -webkit-padding-start: 0px;
+}
+ul.ar-box-list li {
+    font-size: 18px;
+    cursor: pointer;
+    border-bottom: 1px solid #9a9a9a;
+    padding: 10px 0px 5px;
+    font-weight: 300;
+    color: #000;
+}
+ul.ar-box-list li.ar-active a {
+    font-weight: 500;
+    color: #ef4e23;
+}
+.even-calendar-widget {
+    width: 100%;
+    padding: 15px;
+    margin-top: 25px;
+    background: #ef4e23;
+}
+.even-calendar-widget a {
+	color: #fff;
+	font-size: 36px;
+}
+.h-slim {
+	font-weight: 300;
+}
+.faculty-r-content {
+    background: #e6e7e8;
+    padding: 25px 30px 40px 60px;
+    position: relative;
+}
+.faculty-r-content-list {
+	list-style-type: none;
+    -webkit-padding-start: 40px;
+}
+.faculty-r-content h4 {
+	margin-top: 15px;
+}
+.frc-colorline {
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 10px;
+	background: #ef4e23;
+}
+.frc-colorline2 {
+	height: 20%;
+	width: 10px;
+	background: #f9c041;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: 99;
+}
+.frc-colorline3 {
+	height: 10%;
+	width: 10px;
+	background: #716e6a;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	z-index: 99;
+}
+.big-p {
+	font-size: 18px;
+}
+.hl-parag {
+	background: #e6e7e8;
+	padding: 40px 40px 40px 60px;
+	position: relative;
+}
+.hl-parag p {
+	font-weight: 300;
+	font-size: 24px;
+}
+.scoop-content-download {
+	margin-top: 50px;
+}
+.scoop-content-download h3 {
+	color: #000;
+	margin-bottom: 0px;
+}
+.scoop-content-download a {
+	margin-top: 0px;
+	font-size: 18px;
+}
+.vision-section {
+    background: #eee;
+    display: flex;
+	margin-bottom: 20px;
+}
+.no-padding-left {
+	padding-left: 0px;
+}
+.no-padding-right {
+	padding-right: 0px;
+}
+.vision-p-img {
+	max-width: 100%;
+}
+.vision5 p {
+	font-size: 19px;
+}
+.vision5 {
+	margin-top: 40px;
+}
+.or-number {
+	color: #ef4e23;
+	font-size: 20px;
+	margin-right: 10px;
+	font-weight: 400;
 }
 
 @media (min-width: 1200px) {
