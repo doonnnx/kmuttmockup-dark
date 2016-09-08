@@ -201,13 +201,15 @@ p {
 }
 
 .btn-default.btn-kmutt {
-	color: #000;
-	background-color: #d0d2d3;
+	background: #DD4426;
 	text-align: right;
+	color: #fff;
+	transition: all 0.2s ease 0s;
 }
 
 .btn-default.btn-kmutt:hover {
-	background: #DD4426;
+	background: #d0d2d3;
+	color: #000;
 }
 
 /* title */
