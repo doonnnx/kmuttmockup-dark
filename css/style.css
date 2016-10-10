@@ -21,6 +21,18 @@ a:focus, a:hover {
 	text-decoration: none;
 }
 
+.caption a {
+	color: #EF4E23;
+	-webkit-transition: all .25s linear;
+	-moz-transition: all .25s linear;
+	-o-transition: all .25s linear;
+	transition: all .25s linear;
+}
+.caption a:focus, a:hover {
+	color: #5E6062;
+	text-decoration: none;
+}
+
 p {
 	font-size: 18px;
 }
@@ -118,6 +130,12 @@ p {
 .no-padding {
 	padding: 0;
 }
+.no-padding-left {
+	padding-left: : 0;
+}
+.no-padding-right {
+	padding-right: : 0;
+}
 .float-center {
 	margin: 0 auto;
 }
@@ -185,7 +203,6 @@ p {
 	color: #000;
 	padding: 14px 24px;
 	border: 0 none;
-	font-weight: 700;
 	text-transform: uppercase;
 	transition: all 0.5s ease 0s;
 }
@@ -271,6 +288,7 @@ p {
 .news-headline {
 	margin-top: 15px;
 	line-height: 170%;
+	font-size: 16px;
 }
 
 a.list-group-item:focus .dateandmonth, a.list-group-item:hover .dateandmonth {
@@ -1415,7 +1433,7 @@ button.btn.btn-default.btn-kmutt.btn-block.agenda2:hover {
     position: relative;
     display: block;
     padding: 10px 15px;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .nav-tabs {
@@ -1672,6 +1690,47 @@ ul.ar-box-list li.ar-active a {
 	font-size: 20px;
 	margin-right: 10px;
 	font-weight: 400;
+}
+
+.news-spotlight-img {
+	width: 100%;
+}
+.thumbnail {
+    display: inline-table;
+    padding: 0px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+.caption p {
+	font-size: 16px;
+}
+.news-filter-list ul li {
+    display: inline;
+    padding-right: 50px;
+    font-size: 24px;
+}
+.news-filter-list{
+    margin-bottom: 30px;
+}
+.section-title-news.event-title {
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.backtonewslist {
+	font-size: 18px;
+	margin-top: 30px;
+}
+.backtonewslist img {
+	margin-right: 15px;
+}
+.widget-right {
+	margin-bottom: 30px;
 }
 
 @media (min-width: 1200px) {
