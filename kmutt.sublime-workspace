@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "event.html",
+			"settings":
+			{
+				"buffer_size": 17199,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "news.html",
+			"settings":
+			{
+				"buffer_size": 20210,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "news-detail.html",
+			"settings":
+			{
+				"buffer_size": 14624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "home_scoop01.html",
+			"settings":
+			{
+				"buffer_size": 16024,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 34775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/doonnn/Desktop/Filterizr-master/dev_example/css/index.css",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/doonnn/Documents/kmuttmockup-dark"
+	],
+	"file_history":
+	[
+		"/Users/doonnn/Desktop/Filterizr-master/dev_example/index.html",
+		"/Users/doonnn/Desktop/template-filterable-image-gallery/index.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/assets/js/bootstrap-select.min.js",
+		"/Users/doonnn/Desktop/Mod Pantip/manifest.json",
+		"/Users/doonnn/Desktop/Mod Pantip/custom_dribbble.css",
+		"/Users/doonnn/Desktop/Mod Pantip/dribbble.css",
+		"/Users/doonnn/Documents/Mod Pantip/manifest.json",
+		"/Users/doonnn/Documents/kmuttmockup-dark/vision.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/index.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/pu-son-jai-seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/potentiality.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/home_scoop01.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/green-university.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/department.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/contact.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/bangmod.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/about-us.html",
+		"/Users/doonnn/Documents/kmuttmockup-dark/find-your-course.html",
+		"/Users/doonnn/Downloads/kmutt-html/seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmutt-html/index.html",
+		"/Users/doonnn/Desktop/fictionlog/buatoom.com/shots.html",
+		"/Users/doonnn/Desktop/fictionlog/buatoom.com/index.html",
+		"/Users/doonnn/Desktop/fictionlog/buatoom.com/shots?page=1.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/css/style.css",
+		"/Users/doonnn/Documents/kmuttmockup-dark/full-width-slider.slider/no-jquery.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/index-backup.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/contact.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/about-us.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/department.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/pu-son-jai-seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/index.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/css/bootstrap.min.css",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/css/CNAME",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/index.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/department.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/pu-son-jai-seuk-sa-tor.html",
+		"/Users/doonnn/Downloads/kmutt-html/index.html",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/js/main.js",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/KMUTT-DARK/js/html5shiv.min.js",
+		"/Users/doonnn/Documents/kmutt-html/KMUTT(Edit-IncrementFontSize-8AUG2016)/css/style.css",
+		"/Users/doonnn/Documents/kmutt-html/flexslider/flexslider.css",
+		"/Users/doonnn/Documents/kmutt-html/css/style.css",
+		"/Users/doonnn/Documents/kmutt-html/department.html",
+		"/Users/doonnn/Documents/kmutt-html/seuk-sa-tor.html",
+		"/Users/doonnn/Documents/kmutt-html/IncreaseDecreaseFontJquery-master/IncreaseDecreaseFontJquery/indexz.html",
+		"/Users/doonnn/Documents/kmutt-html/IncreaseDecreaseFontJquery-master/IncreaseDecreaseFontJquery/index.html",
+		"/Users/doonnn/Documents/doonnn.com backup/domains/doonnn.com/public_html/microsoft-store/index.html",
+		"/Users/doonnn/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/doonnn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/doonnn/Desktop/tw.chlsx",
+		"/Users/doonnn/Documents/kmutt-html/config.codekit"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"widget-right",
+			"softwareVersionExternalIdentifiers",
+			"p",
+			"integer",
+			"softwareVersionExternalIdentifiers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "event.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8693,
+								8693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2808.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10432,
+								10432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "news-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1330,
+								1330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "home_scoop01.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3121,
+								3121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2868.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/doonnn/Desktop/Filterizr-master/dev_example/css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.720016891891,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kmutt.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

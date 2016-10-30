@@ -116,6 +116,9 @@ p {
 .mgb20 {
 	margin-bottom: 20px;
 }
+.mgb40 {
+	margin-bottom: 40px;
+}
 .mgb30, .img {
 	margin-bottom: 30px;
 }
@@ -1731,6 +1734,9 @@ ul.ar-box-list li.ar-active a {
 }
 .widget-right {
 	margin-bottom: 30px;
+}
+h4.areport-detail-title {
+	border-bottom: 1px solid #000;
 }
 
 @media (min-width: 1200px) {
